@@ -1,0 +1,7 @@
+{
+  "name": "Synesthesia AI",
+  "description": "Transform your MP3 files into stunning AI-generated art using Gemini's multimodal capabilities. This app analyzes the mood, tempo, and texture of your music to create unique visual representations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
